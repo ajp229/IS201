@@ -1,0 +1,14 @@
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+    text-align: left ;
+}
+head {
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+}
+body {
+    background-color: darkgray;
+    text-align: left;
+}
